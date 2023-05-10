@@ -1,0 +1,6 @@
+Allen,Buy,4.58,* 10
+Aileen,Buy,3,* 15
+Adam,Buy,2.5,* 30
+Bob,Buy,3.2,* 4
+Chasel,Buy,5,* 1.2
+Clare,Buy,6,* 7
